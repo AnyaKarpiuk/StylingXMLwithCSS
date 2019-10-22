@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="firstXml.css"?>
+
+<book>
+
+	<person>
+		<fullName>
+			<firstName>Fred</firstName>
+			<secondName>Jones</secondName>
+		</fullName>
+		<info>
+			<contact>
+				<homePhone>(512)555-3301</homePhone>
+				<workPhone>(512)555-2212</workPhone>
+				<mobile></mobile>
+			</contact>
+			<birthday>
+				<day></day>
+				<month></month>
+			</birthday>
+			<profession></profession>
+		</info>
+	</person>
+
+	<person>
+		<fullName>
+			<firstName>Biff</firstName>
+			<secondName>Reynolds</secondName>
+		</fullName>
+		<info>
+			<contact>
+				<homePhone>(512)555-2222</homePhone>
+				<workPhone></workPhone>
+				<mobile></mobile>
+			</contact>
+			<birthday>
+				<day>31</day>
+				<month>July</month>
+			</birthday>
+			<profession></profession>
+		</info>
+	</person>
+
+	<person>
+		<fullName>
+			<firstName>Bill</firstName>
+			<secondName>Smith</secondName>
+		</fullName>
+		<info>
+			<contact>
+				<homePhone>(512)555-2323</homePhone>
+				<workPhone></workPhone>
+				<mobile>(512)555-2231</mobile>
+			</contact>
+			<birthday>
+				<day></day>
+				<month></month>
+			</birthday>
+			<profession>Contractor</profession>
+		</info>
+	</person>
+
+</book>
