@@ -1,0 +1,17 @@
+* {
+	display: block;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+fullName {
+	color: white;
+	background: #6C6B8F;
+	font-size: 20px;
+	text-align: center;
+}
+
+info {
+	text-align: center;
+	padding: 20px;
+}
